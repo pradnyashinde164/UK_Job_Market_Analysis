@@ -10,5 +10,7 @@ The primary objective of this project is to gain insights about UK job market. T
 5. Analyze job descriptions to understand keywords (buzzwords) for that job profile.
 6. Predict salary for a job listing based on various features in the dataset. e.g., Job title, description, sector, location, and organization.
 
+
+
 References:
 [1] Sagar Chadha. 2018. Train_rev1.csv, 1.0 Retrieved 11-27-2022 from https://www.kaggle.com/code/chadalee/text-analytics-explained-job-description-data/data
